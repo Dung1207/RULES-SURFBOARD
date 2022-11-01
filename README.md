@@ -1,3 +1,7 @@
+# Link Aplikasi
+
+https://github.com/getsurfboard/surfboard/releases
+
 # Surfboard.conf
 
 Sebelum di import harap di edit dlu, tambahkan akun msing2 biar tidak terjadi eror, di dalamnya sudah ada format trojan ws mode cdn dan vmess ws mode cdn.
