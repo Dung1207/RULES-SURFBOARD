@@ -4,13 +4,14 @@ https://github.com/getsurfboard/surfboard/releases
 
 # Surfboard.conf
 
-Sebelum di import harap di edit dlu, tambahkan akun msing2 biar tidak terjadi eror, di dalamnya sudah ada format trojan ws mode cdn dan vmess ws mode cdn.
+Sebelum di import harap di edit dlu, tambahkan akun kalian masing2 biar tidak terjadi eror, di dalamnya sudah ada format trojan ws dan vmess ws.
 
 
-# Contoh rules/rule-set di surfboard
+# Contoh rule-set/domain-set di surfboard
+
 [Rule]
-
-RULE-SET,https://raw.githubusercontent.com/Dung1207/RULES-SURFBOARD/main/gaming.txt,game
+RULE-SET,https://raw.githubusercontent.com/Dung1207/RULES-SURFBOARD/main/personalads.txt, ads
+DOMAIN-SET,https://raw.githubusercontent.com/Dung1207/RULES-SURFBOARD/main/basicads.txt, ads
 
 # Source
 https://github.com/blackmatrix7/ios_rule_script   
