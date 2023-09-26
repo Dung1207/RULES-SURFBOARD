@@ -10,6 +10,7 @@ Sebelum di import harap di edit dlu, tambahkan akun kalian masing2 biar tidak te
 # Contoh rule-set/domain-set di surfboard
 
 [Rule]
+
 RULE-SET,https://raw.githubusercontent.com/Dung1207/RULES-SURFBOARD/main/personalads.txt, ads
 DOMAIN-SET,https://raw.githubusercontent.com/Dung1207/RULES-SURFBOARD/main/basicads.txt, ads
 
